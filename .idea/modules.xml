@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Ch02Variables/Ch02Variables.iml" filepath="$PROJECT_DIR$/Ch02Variables/Ch02Variables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ch03 Branches/Ch03 Branches.iml" filepath="$PROJECT_DIR$/Ch03 Branches/Ch03 Branches.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ch04 Loop/Ch04 Loop.iml" filepath="$PROJECT_DIR$/Ch04 Loop/Ch04 Loop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ch05Arrays/Ch05Arrays.iml" filepath="$PROJECT_DIR$/Ch05Arrays/Ch05Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ch06Methods/Ch06Methods.iml" filepath="$PROJECT_DIR$/Ch06Methods/Ch06Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ch07Objects/Ch07Objects.iml" filepath="$PROJECT_DIR$/Ch07Objects/Ch07Objects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ch08IO/Ch08IO.iml" filepath="$PROJECT_DIR$/Ch08IO/Ch08IO.iml" />
+    </modules>
+  </component>
+</project>
